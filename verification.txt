@@ -1,0 +1,2 @@
+Twelve scientific-invariant tests passed.
+PASS: event partitions, target truth, channel/duplicate accounting, hashes, summaries, minimum LoRa airtime and both endpoint duty budgets in main and coupled logs.

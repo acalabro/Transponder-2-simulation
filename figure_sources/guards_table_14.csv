@@ -1,0 +1,5 @@
+noise_figure_db,guards,cued_of_1000,candidates,clip,diagnostic,persistence,target_events,other_events,other_events_per_min
+10,Off,54,2623,0,0,46,221,2356,0.7853333333333332
+10,On,54,2623,559,1302,29,220,513,0.171
+6,Off,54,3179,0,0,42,274,2863,0.9543333333333331
+6,On,54,3179,559,1454,36,273,857,0.2856666666666666

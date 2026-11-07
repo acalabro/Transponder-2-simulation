@@ -1,0 +1,160 @@
+{
+  "schema_version": 2,
+  "master_seed": 20261022,
+  "sensing_replicates": 1000,
+  "delivery_replicates": 500,
+  "duration_s": 180.0,
+  "height_m": 30.0,
+  "horizontal_distances_m": [
+    50,
+    100,
+    150,
+    250,
+    500,
+    750,
+    1000
+  ],
+  "propagation": {
+    "open": {
+      "exponent": 2.2,
+      "excess_loss_db": 0.0,
+      "shadow_sd_db": 4.0
+    },
+    "canopy": {
+      "exponent": 3.0,
+      "excess_loss_db": 12.0,
+      "shadow_sd_db": 7.0
+    }
+  },
+  "rf": {
+    "lte_frequency_hz": 2535000000.0,
+    "wifi_frequency_hz": 2440000000.0,
+    "noise_figure_db": 6.0,
+    "bandwidth_hz": 2500000.0,
+    "vector_duration_s": 9.6e-05,
+    "threshold_db": 8.0,
+    "baseline_error_sd_db": 0.5,
+    "fast_fading_sd_db": 2.0,
+    "clip_input_dbm": -40.0,
+    "diagnostic_threshold": 3.0,
+    "holdoff_s": 0.00288,
+    "stim_noise_uplift_db": 3.0,
+    "wifi_tx_dbm": 15.0,
+    "wifi_sensitivity_dbm": -88.0,
+    "wifi_channel_capture_probability": 0.3333333333333333,
+    "passive_tx_mean_dbm": 5.0,
+    "passive_tx_sd_db": 8.0,
+    "other_rf_rate_per_min": 0.4,
+    "other_rf_power_mean_dbm": -94.0,
+    "other_rf_power_sd_db": 6.0,
+    "leakage_rate_per_min": 0.6,
+    "leakage_power_mean_dbm": -83.0,
+    "leakage_power_sd_db": 7.0,
+    "overload_rate_per_min": 0.2,
+    "overload_power_mean_dbm": -35.0,
+    "overload_power_sd_db": 4.0,
+    "leakage_diagnostic_mean": 4.0,
+    "body_loss_db": 0.0
+  },
+  "access": {
+    "eligibility_probability": 0.7,
+    "downlink_max_pathloss_db": 104.0,
+    "initial_received_target_dbm": -104.0,
+    "ramp_step_db": 4.0,
+    "maximum_tx_dbm": 23.0,
+    "max_attempts": 8,
+    "pathloss_estimation_sd_db": 3.0,
+    "attempt_gap_min_s": 0.02,
+    "attempt_gap_max_s": 0.06,
+    "scan_mean_s": {
+      "searching": 10.0,
+      "idle": 120.0,
+      "deep": 360.0
+    },
+    "wifi_rate_per_min": {
+      "active": 6.0,
+      "idle": 0.5,
+      "deep": 0.1
+    },
+    "connected_ul_rate_per_min": 1.0
+  },
+  "backhaul": {
+    "flight_duration_s": 900.0,
+    "alert_rate_per_min": 1.0,
+    "deadline_s": 120.0,
+    "late_horizon_s": 300.0,
+    "terrestrial_retry_offsets_s": [
+      0,
+      20,
+      60
+    ],
+    "satellite_retry_offset_s": 60.0,
+    "fallback_timeout_s": 10.0,
+    "availability_correlation_s": 20.0,
+    "common_correlation_s": 30.0,
+    "scenarios": {
+      "open": {
+        "up_probability": [
+          0.95,
+          0.9,
+          0.92
+        ],
+        "common_up_probability": 0.95
+      },
+      "canopy": {
+        "up_probability": [
+          0.35,
+          0.6,
+          0.65
+        ],
+        "common_up_probability": 0.75
+      },
+      "blackout": {
+        "up_probability": [
+          0.0,
+          0.5,
+          0.65
+        ],
+        "common_up_probability": 0.75
+      }
+    },
+    "channels": {
+      "cellular": {
+        "median_latency_s": 1.5,
+        "log_sd": 0.5,
+        "conditional_success": 0.98,
+        "ack_probability": 0.98,
+        "ack_delay_s": 0.1,
+        "min_gap_s": 0.1
+      },
+      "lora": {
+        "median_latency_s": 0.1,
+        "log_sd": 0.4,
+        "conditional_success": 0.95,
+        "ack_probability": 0.98,
+        "ack_delay_s": 0.3,
+        "min_gap_s": 0.0
+      },
+      "satellite": {
+        "median_latency_s": 25.0,
+        "log_sd": 0.6,
+        "conditional_success": 0.9,
+        "ack_probability": 0.98,
+        "ack_delay_s": 5.0,
+        "min_gap_s": 0.0
+      }
+    },
+    "lora_phy": {
+      "frequency_hz": 868100000,
+      "spreading_factor": 11,
+      "bandwidth_hz": 125000,
+      "coding_rate_index": 1,
+      "preamble_symbols": 8,
+      "data_bytes": 32,
+      "ack_bytes": 12,
+      "duty_cycle": 0.01,
+      "header": "explicit",
+      "phy_crc": true
+    }
+  }
+}

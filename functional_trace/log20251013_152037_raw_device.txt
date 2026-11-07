@@ -1,0 +1,475 @@
+TX	21	187023	ms	PKT=	0	 >>>>>>>>	
+TX	22	192024	ms	PKT=	0	 >>>>>>>>	
+TX	23	197025	ms	PKT=	0	 >>>>>>>>	
+TX	24	202026	ms	PKT=	0	 >>>>>>>>	
+Letta da stringa: #BSSID:00:00:00:00:00:01&-00dBm&0001.00000,00001.00000#
+
+TX	25	208028	ms	PKT=	0	 >>>>>>>>	
+TX	26	213029	ms	PKT=	0	 >>>>>>>>	
+Letta da stringa: #BSSID:00:00:00:00:00:02&-00dBm&0002.00000,00002.00000#
+
+TX	27	218030	ms	PKT=	0	 >>>>>>>>	
+TX	28	223031	ms	PKT=	0	 >>>>>>>>	
+Letta da stringa: #BSSID:00:00:00:00:00:03&-00dBm&0003.00000,00003.00000#
+
+TX	29	228032	ms	PKT=	0	 >>>>>>>>	
+TX	30	233033	ms	PKT=	0	 >>>>>>>>	
+Letta da stringa: #BSSID:00:00:00:00:00:04&-00dBm&0004.00000,00004.00000#
+
+TX	31	238034	ms	PKT=	0	 >>>>>>>>	
+TX	32	243035	ms	PKT=	0	 >>>>>>>>	
+Letta da stringa: #BSSID:00:00:00:00:00:05&-00dBm&0005.00000,00005.00000#
+
+TX	33	248036	ms	PKT=	0	 >>>>>>>>	
+TX	34	253037	ms	PKT=	0	 >>>>>>>>	
+Letta da stringa: #BSSID:00:00:00:00:00:06&-00dBm&0006.00000,00006.00000#
+
+TX	35	258038	ms	PKT=	0	 >>>>>>>>	
+RX		259110	ms	PKT=	0	Rssi = 	-27	ACK	   <ACK for < S   3   0 0.016667 0.016667 >	Rssi=	-24	10938	> CORRECT
+
+TX	1	259117	ms	PKT=	1	 >>>>>>>>	
+RX		260188	ms	PKT=	1	Rssi = 	-28	ACK	   <ACK for < S   3   1 0.033333 0.033333 >	Rssi=	-25	12013	> CORRECT
+
+TX	1	260195	ms	PKT=	2	 >>>>>>>>	
+RX		261264	ms	PKT=	2	Rssi = 	-28	ACK	   <ACK for < S   3   2 0.050000 0.050000 >	Rssi=	-26	13090	> CORRECT
+
+TX	1	261271	ms	PKT=	3	 >>>>>>>>	
+RX		262338	ms	PKT=	3	Rssi = 	-26	ACK	   <ACK for < S   3   3 0.066667 0.066667 >	Rssi=	-25	14166	> CORRECT
+
+TX	1	262345	ms	PKT=	4	 >>>>>>>>	
+Letta da stringa: #BSSID:00:00:00:00:00:07&-00dBm&0007.00000,00007.00000#
+
+TX	2	267346	ms	PKT=	4	 >>>>>>>>	
+RX		268418	ms	PKT=	4	Rssi = 	-17	ACK	   <ACK for < S   3   4 0.083333 0.083333 >	Rssi=	-14	20246	> CORRECT
+
+TX	1	268425	ms	PKT=	5	 >>>>>>>>	
+RX		269491	ms	PKT=	5	Rssi = 	-17	ACK	   <ACK for < S   3   5 0.100000 0.100000 >	Rssi=	-15	21319	> CORRECT
+
+TX	1	269498	ms	PKT=	6	 >>>>>>>>	
+RX		270568	ms	PKT=	6	Rssi = 	-17	ACK	   <ACK for < S   3   6 0.116667 0.116667 >	Rssi=	-15	22394	> CORRECT
+
+TX	1	270575	ms	PKT=	7	 >>>>>>>>	
+RX		271646	ms	PKT=	7	Rssi = 	-17	ACK	   <ACK for < S   3   7 0.133333 0.133333 >	Rssi=	-14	23471	> CORRECT
+
+TX	1	271653	ms	PKT=	8	 >>>>>>>>	
+RX		272719	ms	PKT=	8	Rssi = 	-17	ACK	   <ACK for < S   3   8 0.016667 0.016667 >	Rssi=	-14	24547	> CORRECT
+
+TX	1	272726	ms	PKT=	9	 >>>>>>>>	
+Letta da stringa: #BSSID:00:00:00:00:00:08&-00dBm&0008.00000,00008.00000#
+
+TX	2	277727	ms	PKT=	9	 >>>>>>>>	
+RX		278799	ms	PKT=	9	Rssi = 	-33	ACK	   <ACK for < S   3   9 0.033333 0.033333 >	Rssi=	-31	30627	> CORRECT
+
+TX	1	278806	ms	PKT=	10	 >>>>>>>>	
+RX		279877	ms	PKT=	10	Rssi = 	-33	ACK	   <ACK for < S   3  10 0.050000 0.050000 >	Rssi=	-30	31702	> CORRECT
+
+TX	1	279884	ms	PKT=	11	 >>>>>>>>	
+RX		280954	ms	PKT=	11	Rssi = 	-33	ACK	   <ACK for < S   3  11 0.066667 0.066667 >	Rssi=	-31	32780	> CORRECT
+
+TX	1	280961	ms	PKT=	12	 >>>>>>>>	
+RX		282031	ms	PKT=	12	Rssi = 	-22	ACK	   <ACK for < S   3  12 0.083333 0.083333 >	Rssi=	-29	33857	> CORRECT
+
+TX	1	282038	ms	PKT=	13	 >>>>>>>>	
+RX		283109	ms	PKT=	13	Rssi = 	-23	ACK	   <ACK for < S   3  13 0.100000 0.100000 >	Rssi=	-19	34934	> CORRECT
+
+TX	1	283116	ms	PKT=	14	 >>>>>>>>	
+Letta da stringa: #BSSID:00:00:00:00:00:09&-00dBm&0009.00000,00009.00000#
+
+TX	2	288117	ms	PKT=	14	 >>>>>>>>	
+RX		289192	ms	PKT=	14	Rssi = 	-22	ACK	   <ACK for < S   3  14 0.116667 0.116667 >	Rssi=	-19	41017	> CORRECT
+
+TX	1	289199	ms	PKT=	15	 >>>>>>>>	
+RX		290269	ms	PKT=	15	Rssi = 	-22	ACK	   <ACK for < S   3  15 0.133333 0.133333 >	Rssi=	-21	42095	> CORRECT
+
+TX	1	290276	ms	PKT=	16	 >>>>>>>>	
+RX		291347	ms	PKT=	16	Rssi = 	-28	ACK	   <ACK for < S   3  16 0.150000 0.150000 >	Rssi=	-26	43172	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:0A&-00dBm&0010.00000,00010.00000#
+
+TX	1	294424	ms	PKT=	17	 >>>>>>>>	
+RX		295494	ms	PKT=	17	Rssi = 	-25	ACK	   <ACK for < S   3  17 0.166667 0.166667 >	Rssi=	-25	47319	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:0B&-00dBm&0011.00000,00011.00000#
+
+TX	1	304430	ms	PKT=	18	 >>>>>>>>	
+RX		305499	ms	PKT=	18	Rssi = 	-19	ACK	   <ACK for < S   3  18 0.183333 0.183333 >	Rssi=	-23	57325	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:0C&-00dBm&0012.00000,00012.00000#
+
+TX	1	314436	ms	PKT=	19	 >>>>>>>>	
+RX		315505	ms	PKT=	19	Rssi = 	-33	ACK	   <ACK for < S   3  19 0.200000 0.200000 >	Rssi=	-31	67330	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:0D&-00dBm&0013.00000,00013.00000#
+
+TX	1	324444	ms	PKT=	20	 >>>>>>>>	
+RX		325514	ms	PKT=	20	Rssi = 	-31	ACK	   <ACK for < S   3  20 0.216667 0.216667 >	Rssi=	-31	77339	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:0E&-00dBm&0014.00000,00014.00000#
+
+TX	1	334453	ms	PKT=	21	 >>>>>>>>	
+RX		335522	ms	PKT=	21	Rssi = 	-32	ACK	   <ACK for < S   3  21 0.233333 0.233333 >	Rssi=	-31	87348	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:0F&-00dBm&0015.00000,00015.00000#
+
+TX	1	344462	ms	PKT=	22	 >>>>>>>>	
+RX		345531	ms	PKT=	22	Rssi = 	-32	ACK	   <ACK for < S   3  22 0.250000 0.250000 >	Rssi=	-31	97356	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:10&-00dBm&0016.00000,00016.00000#
+
+TX	1	354473	ms	PKT=	23	 >>>>>>>>	
+RX		355543	ms	PKT=	23	Rssi = 	-33	ACK	   <ACK for < S   3  23 0.266667 0.266667 >	Rssi=	-32	107368	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:11&-00dBm&0017.00000,00017.00000#
+
+TX	1	364482	ms	PKT=	24	 >>>>>>>>	
+RX		365551	ms	PKT=	24	Rssi = 	-32	ACK	   <ACK for < S   3  24 0.283333 0.283333 >	Rssi=	-30	117377	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:12&-00dBm&0018.00000,00018.00000#
+
+TX	1	374491	ms	PKT=	25	 >>>>>>>>	
+RX		375560	ms	PKT=	25	Rssi = 	-29	ACK	   <ACK for < S   3  25 0.300000 0.300000 >	Rssi=	-28	127385	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:13&-00dBm&0019.00000,00019.00000#
+
+TX	1	384498	ms	PKT=	26	 >>>>>>>>	
+RX		385569	ms	PKT=	26	Rssi = 	-33	ACK	   <ACK for < S   3  26 0.316667 0.316667 >	Rssi=	-32	137394	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:14&-00dBm&0020.00000,00020.00000#
+
+TX	1	394506	ms	PKT=	27	 >>>>>>>>	
+RX		395574	ms	PKT=	27	Rssi = 	-31	ACK	   <ACK for < S   3  27 0.333333 0.333333 >	Rssi=	-31	147400	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:15&-00dBm&0021.00000,00021.00000#
+
+TX	1	404514	ms	PKT=	28	 >>>>>>>>	
+RX		405583	ms	PKT=	28	Rssi = 	-31	ACK	   <ACK for < S   3  28 0.350000 0.350000 >	Rssi=	-29	157408	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:16&-00dBm&0022.00000,00022.00000#
+
+TX	1	414524	ms	PKT=	29	 >>>>>>>>	
+RX		415594	ms	PKT=	29	Rssi = 	-32	ACK	   <ACK for < S   3  29 0.366667 0.366667 >	Rssi=	-31	167420	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:17&-00dBm&0023.00000,00023.00000#
+
+TX	1	424534	ms	PKT=	30	 >>>>>>>>	
+RX		425603	ms	PKT=	30	Rssi = 	-30	ACK	   <ACK for < S   3  30 0.383333 0.383333 >	Rssi=	-29	177428	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:18&-00dBm&0024.00000,00024.00000#
+
+TX	1	434540	ms	PKT=	31	 >>>>>>>>	
+RX		435609	ms	PKT=	31	Rssi = 	-31	ACK	   <ACK for < S   3  31 0.400000 0.400000 >	Rssi=	-30	187434	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:19&-00dBm&0025.00000,00025.00000#
+
+TX	1	444546	ms	PKT=	32	 >>>>>>>>	
+RX		445614	ms	PKT=	32	Rssi = 	-31	ACK	   <ACK for < S   3  32 0.416667 0.416667 >	Rssi=	-30	197440	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:1A&-00dBm&0026.00000,00026.00000#
+
+TX	1	454554	ms	PKT=	33	 >>>>>>>>	
+RX		455624	ms	PKT=	33	Rssi = 	-31	ACK	   <ACK for < S   3  33 0.433333 0.433333 >	Rssi=	-30	207449	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:1B&-00dBm&0027.00000,00027.00000#
+
+TX	1	464563	ms	PKT=	34	 >>>>>>>>	
+RX		465633	ms	PKT=	34	Rssi = 	-31	ACK	   <ACK for < S   3  34 0.450000 0.450000 >	Rssi=	-30	217458	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:1C&-00dBm&0028.00000,00028.00000#
+
+TX	1	474573	ms	PKT=	35	 >>>>>>>>	
+RX		475641	ms	PKT=	35	Rssi = 	-31	ACK	   <ACK for < S   3  35 0.466667 0.466667 >	Rssi=	-30	227467	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:1D&-00dBm&0029.00000,00029.00000#
+
+TX	1	484583	ms	PKT=	36	 >>>>>>>>	
+RX		485653	ms	PKT=	36	Rssi = 	-31	ACK	   <ACK for < S   3  36 0.483333 0.483333 >	Rssi=	-30	237478	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:1E&-00dBm&0030.00000,00030.00000#
+
+TX	1	494593	ms	PKT=	37	 >>>>>>>>	
+RX		495662	ms	PKT=	37	Rssi = 	-30	ACK	   <ACK for < S   3  37 0.500000 0.500000 >	Rssi=	-29	247487	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:1F&-00dBm&0031.00000,00031.00000#
+
+TX	1	504602	ms	PKT=	38	 >>>>>>>>	
+RX		505670	ms	PKT=	38	Rssi = 	-30	ACK	   <ACK for < S   3  38 0.516667 0.516667 >	Rssi=	-28	257496	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:20&-00dBm&0032.00000,00032.00000#
+
+TX	1	514624	ms	PKT=	39	 >>>>>>>>	
+RX		515694	ms	PKT=	39	Rssi = 	-29	ACK	   <ACK for < S   3  39 0.533333 0.533333 >	Rssi=	-28	267519	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:21&-00dBm&0033.00000,00033.00000#
+
+TX	1	524640	ms	PKT=	40	 >>>>>>>>	
+RX		525708	ms	PKT=	40	Rssi = 	-33	ACK	   <ACK for < S   3  40 0.550000 0.550000 >	Rssi=	-32	277534	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:22&-00dBm&0034.00000,00034.00000#
+
+TX	1	534651	ms	PKT=	41	 >>>>>>>>	
+RX		535720	ms	PKT=	41	Rssi = 	-32	ACK	   <ACK for < S   3  41 0.566667 0.566667 >	Rssi=	-31	287545	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:23&-00dBm&0035.00000,00035.00000#
+
+TX	1	544667	ms	PKT=	42	 >>>>>>>>	
+RX		545738	ms	PKT=	42	Rssi = 	-32	ACK	   <ACK for < S   3  42 0.583333 0.583333 >	Rssi=	-31	297563	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:24&-00dBm&0036.00000,00036.00000#
+
+TX	1	554676	ms	PKT=	43	 >>>>>>>>	
+RX		555746	ms	PKT=	43	Rssi = 	-35	ACK	   <ACK for < S   3  43 0.600000 0.600000 >	Rssi=	-35	307572	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:25&-00dBm&0037.00000,00037.00000#
+
+TX	1	564682	ms	PKT=	44	 >>>>>>>>	
+RX		565752	ms	PKT=	44	Rssi = 	-33	ACK	   <ACK for < S   3  44 0.616667 0.616667 >	Rssi=	-30	317577	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:26&-00dBm&0038.00000,00038.00000#
+
+TX	1	574689	ms	PKT=	45	 >>>>>>>>	
+RX		575761	ms	PKT=	45	Rssi = 	-31	ACK	   <ACK for < S   3  45 0.633333 0.633333 >	Rssi=	-32	327586	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:27&-00dBm&0039.00000,00039.00000#
+
+TX	1	584695	ms	PKT=	46	 >>>>>>>>	
+RX		585766	ms	PKT=	46	Rssi = 	-33	ACK	   <ACK for < S   3  46 0.650000 0.650000 >	Rssi=	-32	337592	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:28&-00dBm&0040.00000,00040.00000#
+
+TX	1	594701	ms	PKT=	47	 >>>>>>>>	
+RX		595772	ms	PKT=	47	Rssi = 	-33	ACK	   <ACK for < S   3  47 0.666667 0.666667 >	Rssi=	-32	347597	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:29&-00dBm&0041.00000,00041.00000#
+
+TX	1	604706	ms	PKT=	48	 >>>>>>>>	
+RX		605778	ms	PKT=	48	Rssi = 	-29	ACK	   <ACK for < S   3  48 0.683333 0.683333 >	Rssi=	-28	357603	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:2A&-00dBm&0042.00000,00042.00000#
+
+TX	1	614713	ms	PKT=	49	 >>>>>>>>	
+RX		615783	ms	PKT=	49	Rssi = 	-34	ACK	   <ACK for < S   3  49 0.700000 0.700000 >	Rssi=	-31	367609	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:2B&-00dBm&0043.00000,00043.00000#
+
+TX	1	624719	ms	PKT=	50	 >>>>>>>>	
+RX		625789	ms	PKT=	50	Rssi = 	-34	ACK	   <ACK for < S   3  50 0.716667 0.716667 >	Rssi=	-33	377614	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:2C&-00dBm&0044.00000,00044.00000#
+
+TX	1	634727	ms	PKT=	51	 >>>>>>>>	
+RX		635798	ms	PKT=	51	Rssi = 	-30	ACK	   <ACK for < S   3  51 0.733333 0.733333 >	Rssi=	-29	387623	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:2D&-00dBm&0045.00000,00045.00000#
+
+TX	1	644734	ms	PKT=	52	 >>>>>>>>	
+RX		645803	ms	PKT=	52	Rssi = 	-34	ACK	   <ACK for < S   3  52 0.750000 0.750000 >	Rssi=	-29	397629	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:2E&-00dBm&0046.00000,00046.00000#
+
+TX	1	654742	ms	PKT=	53	 >>>>>>>>	
+RX		655812	ms	PKT=	53	Rssi = 	-36	ACK	   <ACK for < S   3  53 0.766667 0.766667 >	Rssi=	-37	407637	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:2F&-00dBm&0047.00000,00047.00000#
+
+TX	1	664748	ms	PKT=	54	 >>>>>>>>	
+RX		665817	ms	PKT=	54	Rssi = 	-34	ACK	   <ACK for < S   3  54 0.783333 0.783333 >	Rssi=	-34	417643	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:30&-00dBm&0048.00000,00048.00000#
+
+TX	1	674755	ms	PKT=	55	 >>>>>>>>	
+RX		675826	ms	PKT=	55	Rssi = 	-48	ACK	   <ACK for < S   3  55 0.800000 0.800000 >	Rssi=	-51	427651	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:31&-00dBm&0049.00000,00049.00000#
+
+TX	1	684761	ms	PKT=	56	 >>>>>>>>	
+RX		685832	ms	PKT=	56	Rssi = 	-36	ACK	   <ACK for < S   3  56 0.816667 0.816667 >	Rssi=	-34	437657	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:32&-00dBm&0050.00000,00050.00000#
+
+TX	1	694767	ms	PKT=	57	 >>>>>>>>	
+RX		695837	ms	PKT=	57	Rssi = 	-36	ACK	   <ACK for < S   3  57 0.833333 0.833333 >	Rssi=	-35	447663	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:33&-00dBm&0051.00000,00051.00000#
+
+TX	1	704773	ms	PKT=	58	 >>>>>>>>	
+RX		705843	ms	PKT=	58	Rssi = 	-34	ACK	   <ACK for < S   3  58 0.850000 0.850000 >	Rssi=	-33	457668	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:34&-00dBm&0052.00000,00052.00000#
+
+TX	1	714779	ms	PKT=	59	 >>>>>>>>	
+RX		715849	ms	PKT=	59	Rssi = 	-36	ACK	   <ACK for < S   3  59 0.866667 0.866667 >	Rssi=	-34	467674	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:35&-00dBm&0053.00000,00053.00000#
+
+TX	1	724786	ms	PKT=	60	 >>>>>>>>	
+RX		725857	ms	PKT=	60	Rssi = 	-35	ACK	   <ACK for < S   3  60 0.883333 0.883333 >	Rssi=	-34	477683	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:36&-00dBm&0054.00000,00054.00000#
+
+TX	1	734794	ms	PKT=	61	 >>>>>>>>	
+RX		735866	ms	PKT=	61	Rssi = 	-33	ACK	   <ACK for < S   3  61 0.900000 0.900000 >	Rssi=	-32	487691	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:37&-00dBm&0055.00000,00055.00000#
+
+TX	1	744801	ms	PKT=	62	 >>>>>>>>	
+RX		745872	ms	PKT=	62	Rssi = 	-34	ACK	   <ACK for < S   3  62 0.916667 0.916667 >	Rssi=	-32	497697	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:38&-00dBm&0056.00000,00056.00000#
+
+TX	1	754808	ms	PKT=	63	 >>>>>>>>	
+RX		755877	ms	PKT=	63	Rssi = 	-30	ACK	   <ACK for < S   3  63 0.933333 0.933333 >	Rssi=	-28	507703	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:39&-00dBm&0057.00000,00057.00000#
+
+TX	1	764815	ms	PKT=	64	 >>>>>>>>	
+RX		765886	ms	PKT=	64	Rssi = 	-34	ACK	   <ACK for < S   3  64 0.950000 0.950000 >	Rssi=	-34	517711	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:3A&-00dBm&0058.00000,00058.00000#
+
+TX	1	774822	ms	PKT=	65	 >>>>>>>>	
+RX		775892	ms	PKT=	65	Rssi = 	-35	ACK	   <ACK for < S   3  65 0.966667 0.966667 >	Rssi=	-33	527717	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:3B&-00dBm&0059.00000,00059.00000#
+
+TX	1	784830	ms	PKT=	66	 >>>>>>>>	
+RX		785900	ms	PKT=	66	Rssi = 	-28	ACK	   <ACK for < S   3  66 0.983333 0.983333 >	Rssi=	-27	537726	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:3C&-00dBm&0060.00000,00060.00000#
+
+TX	1	794838	ms	PKT=	67	 >>>>>>>>	
+RX		795909	ms	PKT=	67	Rssi = 	-28	ACK	   <ACK for < S   3  67 1.000000 1.000000 >	Rssi=	-27	547734	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:3D&-00dBm&0061.00000,00061.00000#
+
+TX	1	804844	ms	PKT=	68	 >>>>>>>>	
+RX		805914	ms	PKT=	68	Rssi = 	-28	ACK	   <ACK for < S   3  68 1.016667 1.016667 >	Rssi=	-27	557740	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:3E&-00dBm&0062.00000,00062.00000#
+
+TX	1	814851	ms	PKT=	69	 >>>>>>>>	
+RX		815922	ms	PKT=	69	Rssi = 	-27	ACK	   <ACK for < S   3  69 1.033333 1.033333 >	Rssi=	-27	567748	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:3F&-00dBm&0063.00000,00063.00000#
+
+TX	1	824857	ms	PKT=	70	 >>>>>>>>	
+RX		825928	ms	PKT=	70	Rssi = 	-28	ACK	   <ACK for < S   3  70 1.050000 1.050000 >	Rssi=	-27	577754	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:40&-00dBm&0064.00000,00064.00000#
+
+TX	1	834864	ms	PKT=	71	 >>>>>>>>	
+RX		835933	ms	PKT=	71	Rssi = 	-27	ACK	   <ACK for < S   3  71 1.066667 1.066667 >	Rssi=	-26	587760	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:41&-00dBm&0065.00000,00065.00000#
+
+TX	1	844871	ms	PKT=	72	 >>>>>>>>	
+RX		845942	ms	PKT=	72	Rssi = 	-27	ACK	   <ACK for < S   3  72 1.083333 1.083333 >	Rssi=	-26	597768	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:42&-00dBm&0066.00000,00066.00000#
+
+TX	1	854877	ms	PKT=	73	 >>>>>>>>	
+RX		855947	ms	PKT=	73	Rssi = 	-27	ACK	   <ACK for < S   3  73 1.100000 1.100000 >	Rssi=	-26	607772	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:43&-00dBm&0067.00000,00067.00000#
+
+TX	1	864884	ms	PKT=	74	 >>>>>>>>	
+RX		865952	ms	PKT=	74	Rssi = 	-27	ACK	   <ACK for < S   3  74 1.116667 1.116667 >	Rssi=	-26	617779	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:44&-00dBm&0068.00000,00068.00000#
+
+TX	1	874890	ms	PKT=	75	 >>>>>>>>	
+RX		875961	ms	PKT=	75	Rssi = 	-29	ACK	   <ACK for < S   3  75 1.133333 1.133333 >	Rssi=	-28	627787	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:45&-00dBm&0069.00000,00069.00000#
+
+TX	1	884896	ms	PKT=	76	 >>>>>>>>	
+RX		885967	ms	PKT=	76	Rssi = 	-30	ACK	   <ACK for < S   3  76 1.150000 1.150000 >	Rssi=	-32	637793	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:46&-00dBm&0070.00000,00070.00000#
+
+TX	1	894903	ms	PKT=	77	 >>>>>>>>	
+RX		895972	ms	PKT=	77	Rssi = 	-29	ACK	   <ACK for < S   3  77 1.166667 1.166667 >	Rssi=	-28	647799	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:47&-00dBm&0071.00000,00071.00000#
+
+TX	1	904910	ms	PKT=	78	 >>>>>>>>	
+RX		905981	ms	PKT=	78	Rssi = 	-30	ACK	   <ACK for < S   3  78 1.183333 1.183333 >	Rssi=	-28	657807	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:48&-00dBm&0072.00000,00072.00000#
+
+TX	1	914915	ms	PKT=	79	 >>>>>>>>	
+RX		915984	ms	PKT=	79	Rssi = 	-29	ACK	   <ACK for < S   3  79 1.200000 1.200000 >	Rssi=	-28	667810	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:49&-00dBm&0073.00000,00073.00000#
+
+TX	1	924922	ms	PKT=	80	 >>>>>>>>	
+RX		925990	ms	PKT=	80	Rssi = 	-35	ACK	   <ACK for < S   3  80 1.216667 1.216667 >	Rssi=	-32	677817	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:4A&-00dBm&0074.00000,00074.00000#
+
+TX	1	934928	ms	PKT=	81	 >>>>>>>>	
+RX		935999	ms	PKT=	81	Rssi = 	-31	ACK	   <ACK for < S   3  81 1.233333 1.233333 >	Rssi=	-30	687825	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:4B&-00dBm&0075.00000,00075.00000#
+
+TX	1	944934	ms	PKT=	82	 >>>>>>>>	
+RX		946004	ms	PKT=	82	Rssi = 	-33	ACK	   <ACK for < S   3  82 1.250000 1.250000 >	Rssi=	-32	697831	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:4C&-00dBm&0076.00000,00076.00000#
+
+TX	1	954939	ms	PKT=	83	 >>>>>>>>	
+RX		956010	ms	PKT=	83	Rssi = 	-31	ACK	   <ACK for < S   3  83 1.266667 1.266667 >	Rssi=	-30	707836	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:4D&-00dBm&0077.00000,00077.00000#
+
+TX	1	964944	ms	PKT=	84	 >>>>>>>>	
+RX		966013	ms	PKT=	84	Rssi = 	-31	ACK	   <ACK for < S   3  84 1.283333 1.283333 >	Rssi=	-30	717839	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:4E&-00dBm&0078.00000,00078.00000#
+
+TX	1	974951	ms	PKT=	85	 >>>>>>>>	
+RX		976021	ms	PKT=	85	Rssi = 	-27	ACK	   <ACK for < S   3  85 1.300000 1.300000 >	Rssi=	-27	727848	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:4F&-00dBm&0079.00000,00079.00000#
+
+TX	1	984958	ms	PKT=	86	 >>>>>>>>	
+RX		986027	ms	PKT=	86	Rssi = 	-27	ACK	   <ACK for < S   3  86 1.316667 1.316667 >	Rssi=	-26	737853	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:50&-00dBm&0080.00000,00080.00000#
+
+TX	1	994963	ms	PKT=	87	 >>>>>>>>	
+RX		996034	ms	PKT=	87	Rssi = 	-27	ACK	   <ACK for < S   3  87 1.333333 1.333333 >	Rssi=	-26	747860	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:51&-00dBm&0081.00000,00081.00000#
+
+TX	1	1004968	ms	PKT=	88	 >>>>>>>>	
+RX		1006036	ms	PKT=	88	Rssi = 	-27	ACK	   <ACK for < S   3  88 1.350000 1.350000 >	Rssi=	-27	757863	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:52&-00dBm&0082.00000,00082.00000#
+
+TX	1	1014975	ms	PKT=	89	 >>>>>>>>	
+RX		1016045	ms	PKT=	89	Rssi = 	-28	ACK	   <ACK for < S   3  89 1.366667 1.366667 >	Rssi=	-26	767871	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:53&-00dBm&0083.00000,00083.00000#
+
+TX	1	1024981	ms	PKT=	90	 >>>>>>>>	
+RX		1026051	ms	PKT=	90	Rssi = 	-27	ACK	   <ACK for < S   3  90 1.383333 1.383333 >	Rssi=	-27	777877	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:54&-00dBm&0084.00000,00084.00000#
+
+TX	1	1034986	ms	PKT=	91	 >>>>>>>>	
+RX		1036056	ms	PKT=	91	Rssi = 	-27	ACK	   <ACK for < S   3  91 1.400000 1.400000 >	Rssi=	-26	787883	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:55&-00dBm&0085.00000,00085.00000#
+
+TX	1	1044992	ms	PKT=	92	 >>>>>>>>	
+RX		1046063	ms	PKT=	92	Rssi = 	-28	ACK	   <ACK for < S   3  92 1.416667 1.416667 >	Rssi=	-26	797889	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:56&-00dBm&0086.00000,00086.00000#
+
+TX	1	1054996	ms	PKT=	93	 >>>>>>>>	
+RX		1056065	ms	PKT=	93	Rssi = 	-27	ACK	   <ACK for < S   3  93 1.433333 1.433333 >	Rssi=	-26	807892	> CORRECT
+
+Letta da stringa: #BSSID:00:00:00:00:00:57&-00dBm&0087.00000,00087.00000#
+
+TX	1	1065003	ms	PKT=	94	 >>>>>>>>	
+RX		1066074	ms	PKT=	94	Rssi = 

@@ -1,0 +1,13 @@
+{
+  "master_seed": 20261022,
+  "sensing_runs": 221000,
+  "delivery_messages": 91236,
+  "delivery_flights": 6000,
+  "elapsed_seconds": 118.19280815124512,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "config_sha256": "a9e0b8360d1cd01a25924c92caa09105c1c4ef1952ec293279054510c3e39411",
+  "code_sha256": "6b5c31febd2ec82a9d23e134fab53a603d0a8d0a2fe80f238a2af5e17ec83344",
+  "evidence": "All observations in these files are synthetic. No field calibration or trace replay."
+}

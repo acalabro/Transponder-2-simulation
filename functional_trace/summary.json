@@ -1,0 +1,84 @@
+{
+  "files": [
+    {
+      "file": "log20251013_151756_raw.txt",
+      "TX": 17
+    },
+    {
+      "file": "log20251013_152037_raw.txt",
+      "TX": 112,
+      "RX": 95
+    },
+    {
+      "file": "log20251013_160646_raw.txt",
+      "TX": 95,
+      "RX": 93
+    }
+  ],
+  "unique_tx": 224,
+  "unique_rx": 188,
+  "matched_cycles": 185,
+  "single_tx": 180,
+  "one_retry": 5,
+  "median_s": 1.07,
+  "p95_s": 1.091,
+  "maximum_s": 6.099,
+  "fragments": [
+    {
+      "packet": 0,
+      "observed_attempts": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "complete_ack_records": 1,
+      "reason": "capture gap or partial ACK"
+    },
+    {
+      "packet": 94,
+      "observed_attempts": [
+        1
+      ],
+      "complete_ack_records": 0,
+      "reason": "capture gap or partial ACK"
+    },
+    {
+      "packet": 187,
+      "observed_attempts": [
+        1
+      ],
+      "complete_ack_records": 0,
+      "reason": "capture gap or partial ACK"
+    }
+  ],
+  "evidence": "Real airborne LoRa functional trace with test-message inputs; separate from all simulated results. Statistics condition on complete observed cycles. No PHY setting is inferred from the trace."
+}
